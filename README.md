@@ -12,7 +12,7 @@ import termborn as sns
 
 and keep roughly the same calling style you would use with seaborn for a small, safe subset of plots.
 
-This is not trying to be a full seaborn clone. It is trying to be fast, cute, useful, and honest about terminal constraints.
+This is not trying to be a full seaborn clone. It is trying to be fast, useful, and honest about terminal constraints.
 
 ## What It Supports
 
@@ -144,7 +144,7 @@ The defaults are intentionally tuned for terminal panes rather than giant notebo
 
 ## Status
 
-This is a small, intentionally constrained v1-style project.
+This is a small, intentionally constrained verion 0 style project.
 
 That is a feature, not a bug.
 
